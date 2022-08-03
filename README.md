@@ -41,5 +41,5 @@
 <br>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Himanshi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Himanshi" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/himanshisaA"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Himanshi" /></a></p><br><br>
 
