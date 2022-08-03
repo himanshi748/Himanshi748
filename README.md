@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3><br>
 <p align="left">
-<a href="https://codepen.io/himanshi satpute" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="himanshi satpute" height="30" width="40" /></a>
+<a href="https://codepen.io/Himanshisatpute" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="himanshi satpute" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/himanshi-satpute-a002b31b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/himanshi-satpute-a002b31b7" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@himanshisatpute" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@himanshi satpute" height="30" width="40" /></a>
 </p>
@@ -41,4 +41,5 @@
 <br>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/@Himanshi"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="@Himanshi" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/Himanshi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Himanshi" /></a></p><br><br>
+
